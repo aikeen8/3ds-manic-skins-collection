@@ -1,0 +1,359 @@
+{
+  "debug": false,
+  "gameTypeIdentifier": "public.aoshuang.game.3ds",
+  "identifier": "manic_3ds_skin_identifier_nwjns",
+  "name": "NewJeans Skin",
+  "representations": {
+    "iphone": {
+      "edgeToEdge": {
+        "portrait": {
+          "assets": {
+            "resizable": "iphone_edgetoedge_portrait_background.pdf"
+          },
+          "mappingSize": {
+            "width": 375,
+            "height": 812
+          },
+          "translucent": false,
+          "items": [
+            {
+              "thumbstick": {
+                "name": "items_thumbstick_1.pdf",
+                "width": 94,
+                "height": 94
+              },
+              "inputs": {
+                "up": "leftThumbstickUp",
+                "down": "leftThumbstickDown",
+                "left": "leftThumbstickLeft",
+                "right": "leftThumbstickRight"
+              },
+              "frame": {
+                "x": 38,
+                "y": 535,
+                "width": 94,
+                "height": 94
+              },
+              "extendedEdges": {
+                "top": 0,
+                "bottom": 0,
+                "left": 0,
+                "right": 0
+              }
+            },
+            {
+              "thumbstick": {
+                "name": "items_thumbstick_2.pdf",
+                "width": 44,
+                "height": 44
+              },
+              "inputs": {
+                "up": "rightThumbstickUp",
+                "down": "rightThumbstickDown",
+                "left": "rightThumbstickLeft",
+                "right": "rightThumbstickRight"
+              },
+              "frame": {
+                "x": 229,
+                "y": 695,
+                "width": 44,
+                "height": 44
+              },
+              "extendedEdges": {
+                "top": 0,
+                "bottom": 0,
+                "left": 0,
+                "right": 0
+              }
+            },
+            {
+              "inputs": {
+                "up": "up",
+                "down": "down",
+                "left": "left",
+                "right": "right"
+              },
+              "frame": {
+                "x": 66,
+                "y": 656,
+                "width": 120,
+                "height": 120
+              },
+              "extendedEdges": {
+                "top": 0,
+                "bottom": 0,
+                "left": 0,
+                "right": 0
+              },
+              "asset": {
+                "normal": "items_dpad_1.pdf"
+              }
+            },
+            {
+              "inputs": [
+                "x"
+              ],
+              "frame": {
+                "x": 249,
+                "y": 510,
+                "width": 54,
+                "height": 54
+              },
+              "extendedEdges": {
+                "top": 0,
+                "bottom": 0,
+                "left": 0,
+                "right": 0
+              },
+              "asset": {
+                "normal": "items_button_x.pdf"
+              }
+            },
+            {
+              "inputs": [
+                "b"
+              ],
+              "frame": {
+                "x": 249,
+                "y": 612,
+                "width": 54,
+                "height": 54
+              },
+              "extendedEdges": {
+                "top": 0,
+                "bottom": 0,
+                "left": 0,
+                "right": 0
+              },
+              "asset": {
+                "normal": "items_button_b.pdf"
+              }
+            },
+            {
+              "inputs": [
+                "y"
+              ],
+              "frame": {
+                "x": 198,
+                "y": 561,
+                "width": 54,
+                "height": 54
+              },
+              "extendedEdges": {
+                "top": 0,
+                "bottom": 0,
+                "left": 0,
+                "right": 0
+              },
+              "asset": {
+                "normal": "items_button_y.pdf"
+              }
+            },
+            {
+              "inputs": [
+                "a"
+              ],
+              "frame": {
+                "x": 300,
+                "y": 561,
+                "width": 54,
+                "height": 54
+              },
+              "extendedEdges": {
+                "top": 0,
+                "bottom": 0,
+                "left": 0,
+                "right": 0
+              },
+              "asset": {
+                "normal": "items_button_a.pdf"
+              }
+            },
+            {
+              "inputs": [
+                "menu"
+              ],
+              "frame": {
+                "x": 28,
+                "y": 768,
+                "width": 48,
+                "height": 24
+              },
+              "extendedEdges": {
+                "top": 0,
+                "bottom": 0,
+                "left": 0,
+                "right": 0
+              },
+              "asset": {
+                "normal": "items_button_menu.pdf"
+              }
+            },
+            {
+              "inputs": [
+                "start"
+              ],
+              "frame": {
+                "x": 275,
+                "y": 769,
+                "width": 22,
+                "height": 22
+              },
+              "extendedEdges": {
+                "top": 0,
+                "bottom": 0,
+                "left": 0,
+                "right": 0
+              },
+              "asset": {
+                "normal": "items_button_select.pdf"
+              }
+            },
+            {
+              "inputs": [
+                "select"
+              ],
+              "frame": {
+                "x": 225,
+                "y": 769,
+                "width": 22,
+                "height": 22
+              },
+              "extendedEdges": {
+                "top": 0,
+                "bottom": 0,
+                "left": 0,
+                "right": 0
+              },
+              "asset": {
+                "normal": "items_button_select.pdf"
+              }
+            },
+            {
+              "inputs": [
+                "r2"
+              ],
+              "frame": {
+                "x": 346,
+                "y": 373,
+                "width": 29,
+                "height": 60
+              },
+              "extendedEdges": {
+                "top": 0,
+                "bottom": 0,
+                "left": 0,
+                "right": 0
+              },
+              "asset": {
+                "normal": "items_button_portrait_r2.pdf"
+              }
+            },
+            {
+              "inputs": [
+                "r1"
+              ],
+              "frame": {
+                "x": 346,
+                "y": 435,
+                "width": 29,
+                "height": 60
+              },
+              "extendedEdges": {
+                "top": 0,
+                "bottom": 0,
+                "left": 0,
+                "right": 0
+              },
+              "asset": {
+                "normal": "items_button_portrait_r1.pdf"
+              }
+            },
+            {
+              "inputs": [
+                "l2"
+              ],
+              "frame": {
+                "x": 0,
+                "y": 374,
+                "width": 29,
+                "height": 60
+              },
+              "extendedEdges": {
+                "top": 0,
+                "bottom": 0,
+                "left": 0,
+                "right": 0
+              },
+              "asset": {
+                "normal": "items_button_portrait_l2.pdf"
+              }
+            },
+            {
+              "inputs": [
+                "l1"
+              ],
+              "frame": {
+                "x": 0,
+                "y": 435,
+                "width": 29,
+                "height": 60
+              },
+              "extendedEdges": {
+                "top": 0,
+                "bottom": 0,
+                "left": 0,
+                "right": 0
+              },
+              "asset": {
+                "normal": "items_button_portrait_l1.pdf"
+              }
+            },
+            {
+              "inputs": {
+                "x": "touchScreenX",
+                "y": "touchScreenY"
+              },
+              "frame": {
+                "x": 40,
+                "y": 273,
+                "width": 295,
+                "height": 221
+              }
+            }
+          ],
+          "screens": [
+            {
+              "outputFrame": {
+                "x": 8,
+                "y": 55,
+                "width": 359,
+                "height": 215
+              },
+              "inputFrame": {
+                "x": 0,
+                "y": 0,
+                "width": 400,
+                "height": 240
+              }
+            },
+            {
+              "outputFrame": {
+                "x": 40,
+                "y": 273,
+                "width": 295,
+                "height": 221
+              },
+              "inputFrame": {
+                "x": 0,
+                "y": 240,
+                "width": 400,
+                "height": 300
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}
