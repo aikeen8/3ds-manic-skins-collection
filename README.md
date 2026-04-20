@@ -2,10 +2,10 @@
 
 This is a custom newjeans-themed skin for the manic emulator. it features a standard 3ds layout with full touch support.
 
-**note:** currently, this skin only supports portrait mode. landscape mode will be added soon!
+**changelog:** v1.3 landscape mode support and buttons ui improved
 
 ## how to use the skin
-1. Download the `nwjns-3ds-portrait.manicskin` file to your phone.
+1. Download the `nwjns-3ds.manicskin` file to your phone.
 2. Open the manic emulator app.
 3. Go to the skin settings and tap the plus icon to add a new skin.
 4. Select the downloaded `.manicskin` file.
