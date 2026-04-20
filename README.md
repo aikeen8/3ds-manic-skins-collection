@@ -13,10 +13,10 @@ This is a custom skins for the manic emulator I designed and built. Every skin f
 
 ## snapshots
 <p></p>
-<img src="snapshots/nwjns1.png" width="200" margin-right: 15px;"> <img src="snapshots/nwjns2.png" width="200">
+<img src="snapshots/nwjns1.png" width="200" style="border: 2px solid #ccc; margin-right: 15px;"> <img src="snapshots/nwjns2.png" width="200" style="border: 2px solid #ccc;">
 <p><i>Newjeans 3DS</i></p>
-<p></p>
-<img src="snapshots/richman1.png" width="200" margin-right: 15px;"> <img src="snapshots/richman2.png" width="200">
+
+<img src="snapshots/richman1.png" width="200" style="border: 2px solid #ccc; margin-right: 15px;"> <img src="snapshots/richman2.png" width="200" style="border: 2px solid #ccc;">
 <p><i>Aespa Richman 3DS</i></p>
 
 ## contributors
