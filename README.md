@@ -2,8 +2,6 @@
 
 This is a custom skins for the manic emulator I designed and built. Every skin features a standard 3ds layout with full touch support.
 
-**changelog:** v1.4 - Added quick save, screenshot, quick exit, mute/unmute support
-
 ## how to use the skin
 1. Download the `.manicskin` file to your phone.
 2. Open the manic emulator app.
